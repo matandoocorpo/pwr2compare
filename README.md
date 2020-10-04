@@ -16,7 +16,7 @@ Tested on RaspberryPi 3B+ but should work on any Linux based machine (MacOs & Wi
 **Installation:**
 
 ```
-git clone https://github.com/ea1nk/pwr2compare.git
+git clone https://github.com/matandoocorpo/pwr2compare.git
 ```
 ```
 npm install
